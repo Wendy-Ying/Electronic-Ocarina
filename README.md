@@ -12,6 +12,6 @@ We got 100 points for this program.
 Poster describing the use of our work. 
 ![image text](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.png)
 
-There is also a [video](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4) to show the usage of it.
+The [opening report](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A_%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.pdf) and [closing report](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E7%BB%93%E9%A2%98%E6%8A%A5%E5%91%8A_%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.pdf) explain in detail the process we did.
 
-The [opening report])(https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A_%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.pdf) and [closing report](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E7%BB%93%E9%A2%98%E6%8A%A5%E5%91%8A_%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.pdf) explain in detail the process we did.
+There is also a [video](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4) to show the usage of it.
