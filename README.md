@@ -14,4 +14,5 @@ The [opening report](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/
 There is a [video](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4) to show the usage of it.
 
 Poster describing the use of our work:
+
 <img src="https://github.com/Wendy-Ying/Electronic-Ocarina/raw/main/%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.png" alt="Electronic Ocarina" width="300"/>
