@@ -16,3 +16,15 @@ There is a [video](https://github.com/Wendy-Ying/Electronic-Ocarina/blob/main/%E
 Poster describing the use of our work:
 
 <img src="https://github.com/Wendy-Ying/Electronic-Ocarina/raw/main/%E7%94%B5%E5%AD%90%E9%99%B6%E5%9F%99.png" alt="Electronic Ocarina" width="300"/>
+
+## Contributors
+
+The project was a joint effort by Weiyu Chen, Xingchen Xiao and me.
+
+<a href="https://github.com/Wendy-Ying">
+  <img src="https://avatars.githubusercontent.com/u/143325815?v=4" width="100" />
+</a>
+
+<a href="https://github.com/VivianChencwy">
+  <img src="https://avatars.githubusercontent.com/u/128114805?v=4"  width="100"/>
+</a>
